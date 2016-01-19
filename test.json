@@ -1,0 +1,38 @@
+{
+  "Date": "2016-1-12 15:05:50",
+  "Ver": 0.1,
+  "Type": 1,
+  "Num": 3,
+  "Games": [
+    {
+      "GameID": 1,
+	    "GameType": 1,
+	    "GameVer": 1,
+      "GameName": "QQ PC版",
+	    "GameSize": 0,
+	    "GameFileName": "QQ8Setup.exe",
+	    "GameIcon": "http://3gimg.qq.com/qq_product_operations/im/2015/pctab.png",
+	    "GameURL": "http://dldir1.qq.com/qqfile/qq/QQ8.0/16968/QQ8.0.exe"
+    },
+	  {
+      "GameID": 2,
+	    "GameType": 1,
+	    "GameVer": 1,
+      "GameName": "QQ 手机版",
+	    "GameSize": 0,
+	    "GameFileName": "QQ_Android.apk",
+	    "GameIcon": "http://sqimg.qq.com/qq_product_operations/im/2015/update/mbtab.png",
+	    "GameURL": "http://sqdd.myapp.com/myapp/qqteam/AndroidQQ/mobileqq_android.apk"
+    },
+	  {
+      "GameID": 3,
+	    "GameType": 1,
+	    "GameVer": 1,
+      "GameName": "QQ Pad版",
+	    "GameSize": 0,
+	    "GameFileName": "QQ_Pad.apk",
+	    "GameIcon": "http://3gimg.qq.com/qq_product_operations/im/2015/padtab51.png",
+	    "GameURL": "http://sqdd.myapp.com/myapp/qqteam/qq_hd/apad/home/qqhd_release_forhome.apk"
+    }
+  ]
+}
