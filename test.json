@@ -8,31 +8,31 @@
       "GameID": 1,
 	  "GameType": 1,
 	  "GameVer": 1,
-      "GameName": "QQ PC版",
+      "GameName": "notepad",
 	  "GameSize": 0,
-	  "GameFileName": "QQ8Setup.exe",
-	  "GameIcon": "http://3gimg.qq.com/qq_product_operations/im/2015/pctab.png",
-	  "GameURL": "http://dldir1.qq.com/qqfile/qq/QQ8.0/16968/QQ8.0.exe"
+	  "GameFileName": "notepad.exe",
+	  "GameIcon": "https://raw.githubusercontent.com/ayconanw/test/master/0.png",
+	  "GameURL": "https://github.com/ayconanw/test/raw/master/notepad.exe"
     },
 	{
       "GameID": 2,
 	  "GameType": 1,
 	  "GameVer": 1,
-      "GameName": "QQ 手机版",
+      "GameName": "calc",
 	  "GameSize": 0,
-	  "GameFileName": "QQ_Android.apk",
-	  "GameIcon": "http://sqimg.qq.com/qq_product_operations/im/2015/update/mbtab.png",
-	  "GameURL": "http://sqdd.myapp.com/myapp/qqteam/AndroidQQ/mobileqq_android.apk"
+	  "GameFileName": "calc.exe",
+	  "GameIcon": "https://raw.githubusercontent.com/ayconanw/test/master/1.png",
+	  "GameURL": "https://github.com/ayconanw/test/raw/master/calc.exe"
     },
 	{
       "GameID": 3,
 	  "GameType": 1,
 	  "GameVer": 1,
-      "GameName": "QQ Pad版",
+      "GameName": "testrar",
 	  "GameSize": 0,
-	  "GameFileName": "QQ_Pad.apk",
-	  "GameIcon": "http://3gimg.qq.com/qq_product_operations/im/2015/padtab51.png",
-	  "GameURL": "http://sqdd.myapp.com/myapp/qqteam/qq_hd/apad/home/qqhd_release_forhome.apk"
+	  "GameFileName": "testrar.exe",
+	  "GameIcon": "https://raw.githubusercontent.com/ayconanw/test/master/2.png",
+	  "GameURL": "https://github.com/ayconanw/test/raw/master/winmine.exe"
     }
   ]
 }
